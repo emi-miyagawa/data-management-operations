@@ -4,13 +4,13 @@ This repository demonstrates how operational data can be structured, validated, 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 Translate ambiguous data handling into structured, repeatable processes that can be executed reliably by non-technical users.
 
 ---
 
-## 🔍 Focus Areas
+## Focus Areas
 
 - Field definition and naming consistency  
   (e.g., avoiding duplicate meanings such as "customer_id" vs "client_id")
@@ -32,7 +32,7 @@ Translate ambiguous data handling into structured, repeatable processes that can
 
 ---
 
-## 🧩 Example: Address Data Handling
+## Example: Address Data Handling
 
 ### Problem
 Address data was often incomplete (e.g., missing street numbers or incorrect formats), leading to undeliverable mail and operational inefficiencies.
@@ -52,7 +52,7 @@ Address data was often incomplete (e.g., missing street numbers or incorrect for
 
 ---
 
-## 🧠 Design Principles
+## Design Principles
 
 - Prioritize clarity over complexity  
 - Design for non-technical users  
@@ -61,6 +61,6 @@ Address data was often incomplete (e.g., missing street numbers or incorrect for
 
 ---
 
-## 📌 Key Idea
+## Key Idea
 
 Well-designed data structures reduce the need for manual intervention and make operations scalable, even in environments with frequent exceptions.
